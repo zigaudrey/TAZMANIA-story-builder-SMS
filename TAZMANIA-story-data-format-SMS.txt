@@ -12,6 +12,15 @@ X (Max = 30) Bytes = Text
 
 ==============================================================
 
+The pointers are a bit forward than the data. Little Endian/Swapped Hex
+
+Adress of Pointer of Pages:
+501C - 501E [19749 - 19751 (Dec)]
+5055 - 5057 [20097 - 20099 (Dec)]
+508C - 508E [20302 - 20304 (Dec)]
+
+==============================================================
+
 Number of pages = 3
 Lines Used = 19  (Minus Line Jump)
 Average Line Lenghts =  30,8 (585 / 19)

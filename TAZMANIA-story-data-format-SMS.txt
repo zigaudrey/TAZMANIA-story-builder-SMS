@@ -13,7 +13,7 @@ X (Max = 30) Bytes = Text
 ==============================================================
 
 Number of pages = 3
-Lines Used = 19
+Lines Used = 19  (Minus Line Jump)
 Average Line Lenghts =  30,8 (585 / 19)
 Average Lines Usage = 6 (19 / 3)
 

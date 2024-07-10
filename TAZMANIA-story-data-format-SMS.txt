@@ -1,0 +1,20 @@
+TAZ-MANIA - SEGA MASTER SYSTEM - STORY INTRO DATA
+
+Location in Rom: 4D25 - 4F6E (Hex)
+Lenght: 585 (Dec)
+
+LINE [Max Lenght = 33]
+1 Byte = 01
+1 Byte = Line Position
+(30 - X) / 2 Bytes = Space (For centering)
+X (Max = 30) Bytes = Text
+1 Byte = @ / 40 (If new page and very last line) | & / 26
+
+==============================================================
+
+Number of pages = 3
+Lines Used = 19
+Average Line Lenghts =  30,8 (585 / 19)
+Average Lines Usage = 6 (19 / 3)
+
+Each punctuation mark is replaced by the first bracket ( / 29
